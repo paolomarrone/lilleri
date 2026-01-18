@@ -1,0 +1,47 @@
+[
+	{
+		"ticker": "VWCE",
+		"shares": 666,
+		"price": 148.22
+	},
+	{
+		"ticker": "MWEQ",
+		"shares": 333,
+		"price": 5.402
+	},
+	{
+		"ticker": "XESC",
+		"shares": 111,
+		"price": 104.14
+	},
+	{
+		"ticker": "FLXC",
+		"shares": 1,
+		"price": 28.720
+	},
+	{
+		"ticker": "R2US",
+		"shares": 2,
+		"price": 65.09
+	},
+	{
+		"ticker": "XXSC",
+		"shares": 3,
+		"price": 69.77
+	},
+	{
+		"ticker": "FLXI",
+		"shares": 4,
+		"price": 38.095
+	},
+	{
+		"ticker": "LCJP",
+		"shares": 5,
+		"price": 19.618
+	},
+	{
+		"ticker": "ALAT",
+		"shares": 80,
+		"price": 18.886
+	}
+]

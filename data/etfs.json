@@ -1,0 +1,253 @@
+[
+	{
+		"isin": "IE00BK5BQT80",
+		"ticker": "VWCE",
+		"countries": {
+			"United States": 59.03,
+			"Japan": 5.59,
+			"China": 3.16,
+			"United Kingdom": 3.04,
+			"Canada": 2.63,
+			"Taiwan": 2.23,
+			"Switzerland": 2.06,
+			"Germany": 1.94,
+			"France": 1.93,
+			"India": 1.69,
+			"Australia": 1.53,
+			"South Korea": 1.47,
+			"Netherlands": 1.26,
+			"Ireland": 1.05,
+			"Other": 11.39
+		},
+		"sectors": {
+			"Technology": 28.70,
+			"Financials": 14.73,
+			"Consumer Discretionary": 10.44,
+			"Industrials": 9.83,
+			"Telecommunication": 8.36,
+			"Health Care": 7.76,
+			"Consumer Staples": 4.80,
+			"Energy": 3.34,
+			"Basic Materials": 3.09,
+			"Utilities": 2.55,
+			"Real Estate": 1.85,
+			"Other": 4.55
+		}
+	},
+	{
+		"isin": "IE000OEF25S1",
+		"ticker": "MWEQ",
+		"countries": {
+			"United States": 37.38,
+			"Japan": 13.63,
+			"Canada": 5.88,
+			"United Kingdom": 5.27,
+			"France": 3.89,
+			"Germany": 3.53,
+			"Australia": 3.27,
+			"Switzerland": 3.09,
+			"Sweden": 2.80,
+			"Netherlands": 2.04,
+			"Hong Kong": 1.77,
+			"Italy": 1.69,
+			"Ireland": 1.54,
+			"Spain": 1.33,
+			"Singapore": 1.17,
+			"Israel": 1.16,
+			"Finland": 1.02,
+			"Other": 9.54
+		},
+		"sectors": {
+			"Industrials": 16.94,
+			"Financials": 15.20,
+			"Technology": 12.43,
+			"Consumer Discretionary": 9.52,
+			"Health Care": 8.46,
+			"Consumer Staples": 6.63,
+			"Basic Materials": 6.31,
+			"Utilities": 5.62,
+			"Real Estate": 5.16,
+			"Telecommunication": 4.47,
+			"Energy": 3.91,
+			"Other": 5.35
+		}
+	},
+	{
+		"isin": "LU0380865021",
+		"ticker": "XESC",
+		"countries": {
+			"France": 31.36,
+			"Germany": 30.73,
+			"Netherlands": 18.02,
+			"Spain": 9.33,
+			"Italy": 8.14,
+			"Belgium": 1.28,
+			"Finland": 1.13,
+			"Other": 0.01
+		},
+		"sectors": {
+			"Financials": 24.52,
+			"Industrials": 21.85,
+			"Technology": 15.98,
+			"Consumer Discretionary": 14.48,
+			"Consumer Staples": 5.38,
+			"Health Care": 4.10,
+			"Utilities": 4.01,
+			"Energy": 3.70,
+			"Basic Materials": 3.45,
+			"Telecommunication": 2.53
+		}
+	},
+	{
+		"isin": "IE00BHZRR147",
+		"ticker": "FLXC",
+		"countries": {
+			"China": 91.92,
+			"Hong Kong": 3.73,
+			"Other": 4.35
+		},
+		"sectors": {
+			"Consumer Discretionary": 28.63,
+			"Telecommunication": 20.92,
+			"Financials": 15.36,
+			"Technology": 8.86,
+			"Industrials": 5.20,
+			"Health Care": 4.53,
+			"Basic Materials": 3.94,
+			"Consumer Staples": 2.83,
+			"Energy": 2.27,
+			"Utilities": 1.79,
+			"Real Estate": 1.32,
+			"Other": 4.36
+		}
+	},
+	{
+		"isin": "IE00BJ38QD84",
+		"ticker": "R2US",
+		"countries": {
+			"United States": 85.16,
+			"Cayman Islands": 1.27,
+			"Bermuda": 1.06,
+			"Other": 12.51
+		},
+		"sectors": {
+			"Technology": 16.23,
+			"Industrials": 16.01,
+			"Health Care": 14.77,
+			"Financials": 14.68,
+			"Consumer Discretionary": 8.75,
+			"Real Estate": 5.00,
+			"Energy": 4.34,
+			"Basic Materials": 3.62,
+			"Utilities": 2.63,
+			"Telecommunication": 2.43,
+			"Consumer Staples": 1.81,
+			"Other": 9.74
+		}
+	},
+	{
+		"isin": "LU0322253906",
+		"ticker": "XXSC",
+		"countries": {
+			"United Kingdom": 26.58,
+			"Sweden": 9.33,
+			"Switzerland": 8.53,
+			"Germany": 7.72,
+			"France": 6.77,
+			"Italy": 5.66,
+			"Denmark": 4.68,
+			"Norway": 3.68,
+			"Belgium": 3.56,
+			"Spain": 3.21,
+			"Netherlands": 2.92,
+			"Austria": 2.60,
+			"Finland": 2.01,
+			"Luxembourg": 1.39,
+			"Other": 11.36
+		},
+		"sectors": {
+			"Industrials": 23.44,
+			"Financials": 15.49,
+			"Consumer Discretionary": 9.38,
+			"Real Estate": 8.95,
+			"Basic Materials": 8.30,
+			"Health Care": 6.75,
+			"Technology": 6.51,
+			"Telecommunication": 3.58,
+			"Energy": 3.34,
+			"Consumer Staples": 3.33,
+			"Utilities": 2.41,
+			"Other": 8.52
+		}
+	},
+	{
+		"isin": "IE00BHZRQZ17",
+		"ticker": "FLXI",
+		"countries": {
+			"India": 89.56,
+			"Other": 10.44
+		},
+		"sectors": {
+			"Financials": 23.82,
+			"Consumer Discretionary": 11.81,
+			"Industrials": 8.70,
+			"Energy": 8.52,
+			"Technology": 8.45,
+			"Basic Materials": 8.13,
+			"Health Care": 5.54,
+			"Consumer Staples": 5.18,
+			"Telecommunication": 4.26,
+			"Utilities": 3.79,
+			"Real Estate": 1.37,
+			"Other": 10.44
+		}
+	},
+	{
+		"isin": "LU1781541252",
+		"ticker": "LCJP",
+		"countries": {
+			"Japan": 99.93,
+			"Other": 0.07
+		},
+		"sectors": {
+			"Industrials": 24.18,
+			"Consumer Discretionary": 18.06,
+			"Financials": 15.86,
+			"Technology": 13.58,
+			"Telecommunication": 9.17,
+			"Health Care": 6.55,
+			"Consumer Staples": 5.02,
+			"Basic Materials": 3.26,
+			"Real Estate": 2.36,
+			"Utilities": 1.01,
+			"Energy": 0.87,
+			"Other": 0.08
+		}
+	},
+	{
+		"isin": "LU1681045024",
+		"ticker": "ALAT",
+		"countries": {
+			"Brazil": 57.61,
+			"Mexico": 24.16,
+			"Chile": 6.72,
+			"Peru": 2.47,
+			"United States": 1.76,
+			"Other": 7.28
+		},
+		"sectors": {
+			"Financials": 33.32,
+			"Basic Materials": 18.11,
+			"Consumer Staples": 10.64,
+			"Industrials": 9.64,
+			"Energy": 8.28,
+			"Utilities": 8.01,
+			"Telecommunication": 1.28,
+			"Consumer Discretionary": 1.18,
+			"Real Estate": 1.17,
+			"Health Care": 0.89,
+			"Technology": 0.62,
+			"Other": 6.87
+		}
+	},
+]
