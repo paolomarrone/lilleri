@@ -21,7 +21,7 @@ function MWRR(deposits, valuationDate, currentValuation) {
 	const maxIterations = 1000;
 
 	while (iterations++ < maxIterations) {
-		const midRate = (maxRate + minRate) / 2;
+		const midRate = (maxRate + minRate) * 0.5;
 		
 		if ((maxRate - minRate) < threshold) {
 			return midRate;

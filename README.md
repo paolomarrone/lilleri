@@ -2,8 +2,10 @@
 
 My toy investments analysis tools
 
+## Run
+
 Try
-```
+```bash
 node performance.js ./test/deposits.json
 node allocations.js ./test/assets.json
 ```

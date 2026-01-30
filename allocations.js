@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 const fs = require('fs');
 
-const ETFS_FILE =		  './data/etfs.json';
-const CONTINENTS_FILE =	'./data/country-by-continent.json';
+const ETFS_FILE = './data/etfs.json';
+const CONTINENTS_FILE = './data/country-by-continent.json';
 const MARKET_STATUS_FILE = './data/country-by-status.json';
 
 const assetsFile = process.argv[2];
