@@ -124,10 +124,8 @@ function printTable(title, dataMap, totalValue, limit = null) {
 		sorted.push([`... ${others.length} others ...`, otherVal]);
 	}
 
-	let sumPct = 0;
 	sorted.forEach(([key, value]) => {
-		const pct = (value / totalValue) * 100;
-		sumPct += pct;
+		const pct = totalValue === 0 ? 0 : (value / totalValue) * 100;
 		console.log(`| ${pad(key, 25)} | ${pad(pct.toFixed(2) + '%', 8)} | ${pad(formatCurrency(value), 12)} |`);
 	});
 
