@@ -315,7 +315,61 @@
 			"Basic Materials": 4.06,
 			"Telecommunication": 3.06,
 			"Real Estate": 1.22,
-			"Other": 5.84						
+			"Other": 5.84
 		}
-	}
+	},
+	{
+		"isin": "IE00BF4RFH31",
+		"ticker": "IUSN",
+		"countries": {
+			"United States": 51.29,
+			"Japan": 12.65,
+			"United Kingdom": 4.47,
+			"Canada": 3.75,
+			"Australia": 3.55,
+			"Israel": 1.67,
+			"Sweden": 1.47,
+			"Switzerland": 1.45,
+			"France": 1.13,
+			"Germany": 1.10,
+			"Other": 17.47
+		},
+		"sectors": {
+			"Industrials": 18.62,
+			"Financials": 12.66,
+			"Consumer Discretionary": 10.54,
+			"Technology": 10.35,
+			"Basic Materials": 9.06,
+			"Health Care": 8.89,
+			"Real Estate": 7.01,
+			"Energy": 4.15,
+			"Consumer Staples": 4.05,
+			"Utilities": 2.59,
+			"Telecommunication": 2.38,
+			"Other": 9.70
+		}
+	},
+	{
+		"isin": "IE00BLNMYC90",
+		"ticker": "XDEW",
+		"countries": {
+			"United States": 91.14,
+			"Ireland": 1.97,
+			"Other": 6.89
+		},
+		"sectors": {
+			"Industrials": 15.48,
+			"Technology": 13.82,
+			"Financials": 12.29,
+			"Health Care": 10.97,
+			"Consumer Discretionary": 9.87,
+			"Utilities": 6.56,
+			"Consumer Staples": 6.45,
+			"Real Estate": 6.15,
+			"Basic Materials": 5.18,
+			"Energy": 4.90,
+			"Telecommunication": 3.26,
+			"Other": 5.07
+		}
+	},
 ]
