@@ -25,6 +25,9 @@
 	{ "country": "South Korea", "status": "Developed" },
 	{ "country": "Luxembourg", "status": "Developed"},
 
+	{ "country": "Bermuda", "status": "Other/Unclassified" },
+	{ "country": "Cayman Islands", "status": "Other/Unclassified" },
+
 	{ "country": "China", "status": "Emerging" },
 	{ "country": "India", "status": "Emerging" },
 	{ "country": "Taiwan", "status": "Emerging" },

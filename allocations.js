@@ -76,8 +76,7 @@ function addToAgg(obj, key, val) {
 
 function loadJson(filename) {
 	try {
-		let raw = fs.readFileSync(filename, 'utf8');
-		raw = raw.replace(/,\s*\]$/, ']'); // Fix trailing commas
+		const raw = fs.readFileSync(filename, 'utf8');
 		return JSON.parse(raw);
 	} catch (e) {
 		if (e.code === 'ENOENT') {

@@ -1,0 +1,12 @@
+{
+	"name": "lilleri",
+	"version": "0.0.0",
+	"private": true,
+	"description": "Toy investments analysis tools",
+	"license": "MIT",
+	"scripts": {
+		"test": "node --test",
+		"performance": "node performance.js",
+		"allocations": "node allocations.js"
+	}
+}
